@@ -1,0 +1,8 @@
+numpy
+matplotlib
+matplotlib-inline
+gymnasium
+tqdm
+seaborn
+ipython
+scipy
